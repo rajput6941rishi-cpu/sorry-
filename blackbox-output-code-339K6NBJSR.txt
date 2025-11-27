@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sorry, My Love 🐾</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: linear-gradient(to bottom, #98fb98, #f0fff0); color: #333; text-align: center; padding: 20px; }
+        h1 { color: #32cd32; }
+        .quote { font-style: italic; margin: 20px; padding: 10px; background: rgba(255,255,255,0.8); border-radius: 10px; }
+        .emoji { font-size: 2em; }
+        button { background: #32cd32; color: white; border: none; padding: 10px 20px; border-radius: 5px; cursor: pointer; }
+        button:hover { background: #228b22; }
+    </style>
+</head>
+<body>
+    <h1>Super Sorry, My Love 🐾😊</h1>
+    <p class="emoji">🥺💚</p>
+    <p>I made a mistake, and I regret it deeply. You're my everything—please give me another chance?</p>
+    <div class="quote">
+        <p>"Apologies are not about changing the past, but about showing a willingness to build a new future." – Unknown</p>
+        <p class="emoji">🐶</p>
+    </div>
+    <div class="quote">
+        <p>"I love you not only for what you are, but for what I am when I am with you." – Roy Croft</p>
+        <p class="emoji">🌼</p>
+    </div>
+    <button onclick="alert('Puppies and apologies! 🐕')">Send My Apology 🐕</button>
+</body>
+</html>
